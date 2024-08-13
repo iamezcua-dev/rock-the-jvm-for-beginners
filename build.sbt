@@ -1,6 +1,6 @@
 name := "scala-and-functional-programming-essentials-rockthejvm"
 version := "0.1"
-scalaVersion := "2.13.14"
+scalaVersion := "3.4.2"
 
 libraryDependencies ++= Seq(
   // Logging

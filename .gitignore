@@ -1,0 +1,8 @@
+# Ignore IDE-related metadata
+.idea
+target
+.bsp
+project
+
+# Keep track of project codestyles
+!.idea/codeStyles
